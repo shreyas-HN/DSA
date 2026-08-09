@@ -9,6 +9,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shreyas-HN/DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/shreyas-HN/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shreyas-HN/DSA/tree/master/0344-reverse-string) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shreyas-HN/DSA/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shreyas-HN/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
