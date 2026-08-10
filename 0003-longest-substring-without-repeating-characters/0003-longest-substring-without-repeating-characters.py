@@ -3,16 +3,20 @@ class Solution:
         i=0
         j=0
         longest=0
-        count=0
-        se=set()
-        while j<len(s) and i<len(s):
-            if s[j] not in se:
-                se.add(s[j])
-                count=(j-i)+1
-                j += 1
+        d={}
+        while j < len(s):
+            if s[j] not in d:
+                d[s[j]] = j
             else:
-                se.remove(s[i])
-                i+=1
-            longest=max(longest,count)
+                i = max(i, d[s[j]] + 1)
+                d[s[j]] = j
+
+            j += 1
+
+            count = j - i
+            longest = max(longest, count)
+
         return longest
-                
+
+
+                        
