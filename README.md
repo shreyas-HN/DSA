@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shreyas-HN/DSA/tree/master/0014-longest-common-prefix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyas-HN/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Trie
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shreyas-HN/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyas-HN/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0647-palindromic-substrings](https://github.com/shreyas-HN/DSA/tree/master/0647-palindromic-substrings) |
 ## Manacher
 |  |
