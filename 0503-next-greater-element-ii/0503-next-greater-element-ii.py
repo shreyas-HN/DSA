@@ -8,7 +8,6 @@ class Solution:
             index=num%n
             while stack and nums[index] > nums[stack[-1]]:
                 z=stack.pop()
-                print(index)
                 ans[z]=nums[index]
             stack.append(index)
         return ans
