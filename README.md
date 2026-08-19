@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/shreyas-HN/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/shreyas-HN/DSA/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/shreyas-HN/DSA/tree/master/0647-palindromic-substrings) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shreyas-HN/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Array
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/shreyas-HN/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/shreyas-HN/DSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/shreyas-HN/DSA/tree/master/0901-online-stock-span) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shreyas-HN/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shreyas-HN/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Bracket Sequences
 |  |
