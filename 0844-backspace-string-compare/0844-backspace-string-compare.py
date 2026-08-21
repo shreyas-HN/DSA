@@ -1,22 +1,29 @@
 class Solution:
+    def find_next_valid(self,string,i):
+        skip=0
+        while i>=0:
+            if string[i]=="#" :
+                skip+=1
+                i-=1
+            elif skip>0:
+                i-=1
+                skip-=1
+            else:
+                return i
+        return i
     def backspaceCompare(self, s: str, t: str) -> bool:
-        stack1=[]
-        stack2=[]
-        for i in s:
-            if i!="#":
-                stack1.append(i)
-            else:
-                if stack1:
-                    stack1.pop()
-        for i in t:
-            if i != "#":
-                stack2.append(i)
-            else:
-                if stack2:
-                    stack2.pop()
-        if stack1==stack2:
-            return True
-        else:
-            return False
-
-                
+        i = len(s) - 1
+        j = len(t) - 1
+        while i>=0 or j>=0:
+            x=self.find_next_valid(s,i)
+            y=self.find_next_valid(t,j)
+            if x ==-1 and y==-1:
+                return True
+            if x==-1 or y==-1:
+                return False
+            if s[x]!=t[y]:
+                return False
+            i=x-1
+            j=y-1
+        return True
+            
