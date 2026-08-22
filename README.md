@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shreyas-HN/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shreyas-HN/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Monotonic Stack
 |  |
 | ------- |
