@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/shreyas-HN/DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/shreyas-HN/DSA/tree/master/0014-longest-common-prefix) |
+| [0033-search-in-rotated-sorted-array](https://github.com/shreyas-HN/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/shreyas-HN/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shreyas-HN/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyas-HN/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -162,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shreyas-HN/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shreyas-HN/DSA/tree/master/0232-implement-queue-using-stacks) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/shreyas-HN/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
