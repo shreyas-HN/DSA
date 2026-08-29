@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/shreyas-HN/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/shreyas-HN/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/shreyas-HN/DSA/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/shreyas-HN/DSA/tree/master/0875-koko-eating-bananas) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shreyas-HN/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2951-find-the-peaks](https://github.com/shreyas-HN/DSA/tree/master/2951-find-the-peaks) |
 ## Trie
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shreyas-HN/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shreyas-HN/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shreyas-HN/DSA/tree/master/0162-find-peak-element) |
+| [0875-koko-eating-bananas](https://github.com/shreyas-HN/DSA/tree/master/0875-koko-eating-bananas) |
 ## Enumeration
 |  |
 | ------- |
