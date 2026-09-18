@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/shreyas-HN/DSA/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/shreyas-HN/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shreyas-HN/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1019-next-greater-node-in-linked-list](https://github.com/shreyas-HN/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shreyas-HN/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shreyas-HN/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shreyas-HN/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/shreyas-HN/DSA/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/shreyas-HN/DSA/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/shreyas-HN/DSA/tree/master/0901-online-stock-span) |
+| [1019-next-greater-node-in-linked-list](https://github.com/shreyas-HN/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shreyas-HN/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shreyas-HN/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shreyas-HN/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/shreyas-HN/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/shreyas-HN/DSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/shreyas-HN/DSA/tree/master/0901-online-stock-span) |
+| [1019-next-greater-node-in-linked-list](https://github.com/shreyas-HN/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shreyas-HN/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Data Stream
 |  |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/shreyas-HN/DSA/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/shreyas-HN/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/shreyas-HN/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/shreyas-HN/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/shreyas-HN/DSA/tree/master/2074-reverse-nodes-in-even-length-groups) |
 ## Recursion
 |  |
