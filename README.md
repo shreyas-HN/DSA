@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/shreyas-HN/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shreyas-HN/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shreyas-HN/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0707-design-linked-list](https://github.com/shreyas-HN/DSA/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/shreyas-HN/DSA/tree/master/0901-online-stock-span) |
 ## Math
 |  |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/shreyas-HN/DSA/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/shreyas-HN/DSA/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/shreyas-HN/DSA/tree/master/0445-add-two-numbers-ii) |
+| [0707-design-linked-list](https://github.com/shreyas-HN/DSA/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/shreyas-HN/DSA/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/shreyas-HN/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/shreyas-HN/DSA/tree/master/1019-next-greater-node-in-linked-list) |
