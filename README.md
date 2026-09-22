@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/shreyas-HN/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/shreyas-HN/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1901-find-a-peak-element-ii](https://github.com/shreyas-HN/DSA/tree/master/1901-find-a-peak-element-ii) |
+| [2073-time-needed-to-buy-tickets](https://github.com/shreyas-HN/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/shreyas-HN/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2951-find-the-peaks](https://github.com/shreyas-HN/DSA/tree/master/2951-find-the-peaks) |
 ## Trie
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/shreyas-HN/DSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/shreyas-HN/DSA/tree/master/0844-backspace-string-compare) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/shreyas-HN/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/shreyas-HN/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2390-removing-stars-from-a-string](https://github.com/shreyas-HN/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Queue
 |  |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/shreyas-HN/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/shreyas-HN/DSA/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/shreyas-HN/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/shreyas-HN/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Binary Search
 |  |
 | ------- |
