@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shreyas-HN/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/shreyas-HN/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/shreyas-HN/DSA/tree/master/1552-magnetic-force-between-two-balls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/shreyas-HN/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1901-find-a-peak-element-ii](https://github.com/shreyas-HN/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/shreyas-HN/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2951-find-the-peaks](https://github.com/shreyas-HN/DSA/tree/master/2951-find-the-peaks) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/shreyas-HN/DSA/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shreyas-HN/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/shreyas-HN/DSA/tree/master/1544-make-the-string-great) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/shreyas-HN/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2390-removing-stars-from-a-string](https://github.com/shreyas-HN/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/shreyas-HN/DSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/shreyas-HN/DSA/tree/master/0844-backspace-string-compare) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/shreyas-HN/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2390-removing-stars-from-a-string](https://github.com/shreyas-HN/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Queue
 |  |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/shreyas-HN/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shreyas-HN/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/shreyas-HN/DSA/tree/master/0933-number-of-recent-calls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/shreyas-HN/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Binary Search
 |  |
 | ------- |
