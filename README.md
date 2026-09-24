@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/shreyas-HN/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shreyas-HN/DSA/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shreyas-HN/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0641-design-circular-deque](https://github.com/shreyas-HN/DSA/tree/master/0641-design-circular-deque) |
 | [0735-asteroid-collision](https://github.com/shreyas-HN/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/shreyas-HN/DSA/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/shreyas-HN/DSA/tree/master/0875-koko-eating-bananas) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/shreyas-HN/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shreyas-HN/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shreyas-HN/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0641-design-circular-deque](https://github.com/shreyas-HN/DSA/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/shreyas-HN/DSA/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/shreyas-HN/DSA/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/shreyas-HN/DSA/tree/master/0933-number-of-recent-calls) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shreyas-HN/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shreyas-HN/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0641-design-circular-deque](https://github.com/shreyas-HN/DSA/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/shreyas-HN/DSA/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/shreyas-HN/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/shreyas-HN/DSA/tree/master/2073-time-needed-to-buy-tickets) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/shreyas-HN/DSA/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/shreyas-HN/DSA/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/shreyas-HN/DSA/tree/master/0445-add-two-numbers-ii) |
+| [0641-design-circular-deque](https://github.com/shreyas-HN/DSA/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/shreyas-HN/DSA/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/shreyas-HN/DSA/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/shreyas-HN/DSA/tree/master/0876-middle-of-the-linked-list) |
