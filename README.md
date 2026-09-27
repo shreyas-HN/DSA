@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/shreyas-HN/DSA/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/shreyas-HN/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shreyas-HN/DSA/tree/master/0503-next-greater-element-ii) |
+| [0525-contiguous-array](https://github.com/shreyas-HN/DSA/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shreyas-HN/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyas-HN/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0641-design-circular-deque](https://github.com/shreyas-HN/DSA/tree/master/0641-design-circular-deque) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/shreyas-HN/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shreyas-HN/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/shreyas-HN/DSA/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/shreyas-HN/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyas-HN/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Sliding Window
 |  |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/shreyas-HN/DSA/tree/master/0410-split-array-largest-sum) |
+| [0525-contiguous-array](https://github.com/shreyas-HN/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyas-HN/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Interactive
 |  |
