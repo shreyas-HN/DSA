@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/shreyas-HN/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shreyas-HN/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shreyas-HN/DSA/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/shreyas-HN/DSA/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/shreyas-HN/DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shreyas-HN/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/shreyas-HN/DSA/tree/master/0268-missing-number) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/shreyas-HN/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shreyas-HN/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shreyas-HN/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/shreyas-HN/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shreyas-HN/DSA/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shreyas-HN/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/shreyas-HN/DSA/tree/master/0496-next-greater-element-i) |
@@ -270,12 +272,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shreyas-HN/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shreyas-HN/DSA/tree/master/0268-missing-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/shreyas-HN/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shreyas-HN/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/shreyas-HN/DSA/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shreyas-HN/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
@@ -343,4 +347,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shreyas-HN/DSA/tree/master/0268-missing-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shreyas-HN/DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shreyas-HN/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
