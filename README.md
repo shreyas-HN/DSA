@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shreyas-HN/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/shreyas-HN/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/shreyas-HN/DSA/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/shreyas-HN/DSA/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/shreyas-HN/DSA/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/shreyas-HN/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/shreyas-HN/DSA/tree/master/0141-linked-list-cycle) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/shreyas-HN/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/shreyas-HN/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shreyas-HN/DSA/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/shreyas-HN/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shreyas-HN/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shreyas-HN/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyas-HN/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shreyas-HN/DSA/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/shreyas-HN/DSA/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/shreyas-HN/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shreyas-HN/DSA/tree/master/0268-missing-number) |
@@ -372,4 +375,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shreyas-HN/DSA/tree/master/0169-majority-element) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shreyas-HN/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shreyas-HN/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
